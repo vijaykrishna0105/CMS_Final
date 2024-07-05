@@ -1,0 +1,162 @@
+{
+    "data": [
+        {
+            "ourQualities": [
+                {
+                    "id": 1,
+                    "image": "./Analytics_image.jpg",
+                    "title": "Quality Service",
+                    "description": "ClaimBridge offers a range of popular services designed to cater to various insurance needs. Our comprehensive claims processing service ensures that every claim is handled with utmost precision and care. ."
+                },
+                {
+                    "id": 2,
+                    "image": "./Assistance_image.jpg",
+                    "title": "Dedicated Support",
+                    "description": "We have streamlined our operations to minimize delays and reduce the turnaround time for claims processing.."
+                },
+                {
+                    "id": 3,
+                    "image": "./Document_management.jpg",
+                    "title": "Efficient Processes",
+                    "description": "Efficiency is at the heart of what we do at ClaimBridge. Our advanced technology infrastructure enables us to process claims swiftly and accurately."
+                }
+            ],
+            "dishes": [
+                {
+                    "id": 1,
+                    "image": "./life_image.jpeg",
+                    "title": "Life Insurance",
+                    "category": "Insurance"
+                },
+                {
+                    "id": 2,
+                    "image": "./Health_insurance",
+                    "title": "Health Insurance",
+                    "category": "Insurance"
+                },
+                {
+                    "id": 3,
+                    "image": "./vehicle_image.jpeg",
+                    "title": "Vehicle Insurance",
+                    "category": "Insurance"
+                },
+                {
+                    "id": 4,
+                    "image": "./home_insurance.jpeg",
+                    "title": "Home Insurance",
+                    "category": "Insurance"
+                },
+                {
+                    "id": 5,
+                    "image": "./Travel_image.jpeg",
+                    "title": "Travel Insurance",
+                    "category": "Insurance"
+                },
+                {
+                    "id": 6,
+                    "image": "./property_image.jpeg",
+                    "title": "Property Insurance",
+                    "category": "Insurance"
+                }
+            ],
+            "team": [
+                {
+                    "id": 1,
+                    "image": "./Vijay_image.jpeg",
+                    "name": "Johnathan Tyler",
+                    "designation": "Founder & CEO"
+                },
+                {
+                    "id": 2,
+                    "image": "./ProfileImg.jpeg",
+                    "name": "Wade Warren",
+                    "designation": "Chief Operating Officer"
+                },
+                {
+                    "id": 3,
+                    "image": "./Profile_coffe_app.jpg",
+                    "name": "John Doe",
+                    "designation": "Claims Specialist"
+                },
+                {
+                    "id": 4,
+                    "image": "./Profile_coffe_app.jpg",
+                    "name": "Vijay",
+                    "designation": "Senior Underwriter"
+                }
+            ],
+            "testimonials": [
+                {
+                    "id": 1,
+                    "image": "./pexels-mikhail-nilov-7735630.jpg",
+                    "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                    "rating": 4,
+                    "userName": "Jane Cooper"
+                },
+                {
+                    "id": 2,
+                    "image": "./review2.png",
+                    "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                    "rating": 4.5,
+                    "userName": "Esther Howard"
+                },
+                {
+                    "id": 3,
+                    "image": "./review3.png",
+                    "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                    "rating": 5,
+                    "userName": "Guy Hawkins"
+                }
+            ],
+            "who_we_are": [
+                {
+                    "id": 1,
+                    "number": "14",
+                    "title": "Years of Experience"
+                },
+                {
+                    "id": 2,
+                    "number": "200",
+                    "title": "Policies Managed"
+                },
+                {
+                    "id": 3,
+                    "number": "500",
+                    "title": "Claims Processed"
+                },
+                {
+                    "id": 4,
+                    "number": "98%",
+                    "title": "Customer Satisfaction"
+                }
+            ],
+            "navbarLinks": [
+                {
+                    "id": 1,
+                    "title": "Home",
+                    "link": "heroSection"
+                },
+                {
+                    "id": 2,
+                    "title": "About Us",
+                    "link": "about"
+                },
+                {
+                    "id": 3,
+                    "title": "Services",
+                    "link": "qualities"
+                },
+                {
+                    "id": 4,
+                    "title": "Team",
+                    "link": "team"
+                },
+                {
+                    "id": 5,
+                    "title": "Contact",
+                    "link": "contact"
+                }
+            ]
+        }
+    ]
+}
